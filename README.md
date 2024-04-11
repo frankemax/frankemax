@@ -2,6 +2,8 @@ Currently writing React-native.
 
 Building
 1. [bbb-mobile-sdk](https://github.com/mconf/bbb-mobile-sdk)
+2. [expo-pip](https://github.com/mconf/expo-pip)
+3. [expo-audio-device-manager](https://github.com/mconf/expo-audio-device-manager)
   
 
 <!--
